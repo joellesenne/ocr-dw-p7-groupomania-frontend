@@ -1,1 +1,1 @@
-# ocr-dw-p7-groupomania-frontend
+# ocr-dw-p7-groupomania-frontend-react
